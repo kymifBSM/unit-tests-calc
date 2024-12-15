@@ -22,3 +22,15 @@ C:\Users\user\Desktop\unit-tests\Calculations\obj\Debug\net6.0\Calculations.dll
 C:\Users\user\Desktop\unit-tests\Calculations\obj\Debug\net6.0\refint\Calculations.dll
 C:\Users\user\Desktop\unit-tests\Calculations\obj\Debug\net6.0\Calculations.pdb
 C:\Users\user\Desktop\unit-tests\Calculations\obj\Debug\net6.0\ref\Calculations.dll
+C:\Users\kymifBSM\Source\Repos\unit-tests\Calculations\bin\Debug\net6.0\Calculations.deps.json
+C:\Users\kymifBSM\Source\Repos\unit-tests\Calculations\bin\Debug\net6.0\Calculations.dll
+C:\Users\kymifBSM\Source\Repos\unit-tests\Calculations\bin\Debug\net6.0\Calculations.pdb
+C:\Users\kymifBSM\Source\Repos\unit-tests\Calculations\obj\Debug\net6.0\Calculations.csproj.AssemblyReference.cache
+C:\Users\kymifBSM\Source\Repos\unit-tests\Calculations\obj\Debug\net6.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kymifBSM\Source\Repos\unit-tests\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\kymifBSM\Source\Repos\unit-tests\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfo.cs
+C:\Users\kymifBSM\Source\Repos\unit-tests\Calculations\obj\Debug\net6.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\kymifBSM\Source\Repos\unit-tests\Calculations\obj\Debug\net6.0\Calculations.dll
+C:\Users\kymifBSM\Source\Repos\unit-tests\Calculations\obj\Debug\net6.0\refint\Calculations.dll
+C:\Users\kymifBSM\Source\Repos\unit-tests\Calculations\obj\Debug\net6.0\Calculations.pdb
+C:\Users\kymifBSM\Source\Repos\unit-tests\Calculations\obj\Debug\net6.0\ref\Calculations.dll

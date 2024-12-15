@@ -88,5 +88,29 @@ namespace CalculationsTests
         {
             string[] actual = Calculations.Calculations.AvailablePeriods(incorrectStartTimes, durations, beginWorkingTime, endWorkingTime, consultationTime);
         }
+
+        [TestMethod]
+        public void PassTooShortWorkingDay()
+        {
+            string[]? expected = null;
+            string tooShortBeginWorkingTime = "10:00";
+            string tooShortEndWorkingTime = "12:00";
+
+            string[] actual = Calculations.Calculations.AvailablePeriods(startTimes, durations, tooShortBeginWorkingTime, tooShortEndWorkingTime, consultationTime);
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void ValidateWorkingHours()
+        {
+            string incorrectBeginWorkingTime = "18:00";
+            string incorrectEndWorkingTime = "08:00";
+            string[]? expected = null;
+
+            string[] actual = Calculations.Calculations.AvailablePeriods(startTimes, durations, incorrectBeginWorkingTime, incorrectEndWorkingTime, consultationTime);
+
+            Assert.AreEqual(expected, actual);
+        }
     }
 }
